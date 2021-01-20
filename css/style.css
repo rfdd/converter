@@ -1,0 +1,13 @@
+.table{
+    width: 300px;
+}
+.row{
+    display: flex;
+    border-bottom: 1px solid black;
+    width: 100%; 
+}
+.cell{
+    width: 50%;
+    padding: 10px;
+    margin: 0 5px;
+}
